@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Pacific Rin",
+        "tel":"0915518012",
+        "permission":1
+    },
+    {
+        "id":2,
+        "name":"IronMan",
+        "tel":"0915522012",
+        "permission":2
+    },
+    {
+        "id":3,
+        "name":"Shisedo",
+        "tel":"0915518999",
+        "permission":3
+    },
+    {
+        "id":4,
+        "name":"Pac Long",
+        "tel":"09153338012",
+        "permission":3
+    },
+    {
+        "id":5,
+        "name":"Phoenix Rin",
+        "tel":"0915518112",
+        "permission":1
+    }
+]
